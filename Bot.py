@@ -461,4 +461,4 @@ async def on_ready():
         update_stats.start()
 
 init_db()
-bot.run(TOKEN)
+bot.run(MTU1NDE4NDU3OTMzNjc2NTQ4MA.GRk16W.qdrseQoZJiQspMpywy2JfDM9E7u9d7ZVozegU)
